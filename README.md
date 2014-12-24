@@ -1,0 +1,359 @@
+#Sentimental beauties, and moral delineations, from the writings of the celebrated Dr. Blair, and other much admired authors; selected with a view to refine the taste, rectify the judgment, and mould the heart to virtue.#
+
+##Blair, Hugh, 1718-1800.##
+Sentimental beauties, and moral delineations, from the writings of the celebrated Dr. Blair, and other much admired authors; selected with a view to refine the taste, rectify the judgment, and mould the heart to virtue.
+Blair, Hugh, 1718-1800.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N18/N18587.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N18/N18587.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2006-07__ __TCP__ *Assigned for keying and markup*
+1. __2006-08__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2007-05__ __Olivia Bottum__ *Sampled and proofread*
+1. __2007-05__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2008-02__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. PREFATORY DEDICATION. TO LORD HAWKE, BARON TOWTON.
+
+1. CONTENTS.
+
+#####Body#####
+
+1. SENTIMENTAL BEAUTIES AND MORAL DELINEATIONS.
+
+    _ ACUTENESS IN REPLICATION.
+
+    _ AFFABILITY.
+
+    _ ANXIETY, THE VICE OF AGE.
+
+    _ INDISCRIMINATE APPLAUSE.
+
+    _ METHOD IN THE ARRANGEMENT OF IDEAS.
+
+    _ AVARICE.
+
+    _ AWE.
+
+    _ BEHAVIOUR.
+
+    _ MAN OF BUSINESS.
+
+    _ MIXED COMPANY.
+
+    _ COMPASSION.
+
+    _ CONFIDANTS.
+
+    _ CONSCIENCE.
+
+    _ CONSTANCY AND FIRMNESS OF ACTION.
+
+    _ CONTENT.
+
+    _ CONVERSATION.
+
+    _ ARTIFICIAL COURTESY.
+
+    _ COQUETRY.
+
+    _ COURTSHIP.
+
+    _ MAN'S DANGER AND SECURITY IN YOUTH.
+
+    _ DECEIT.
+
+    _ DEVOTION,
+
+    _ MORALITY AND DEVOTION SEPARATELY INSUFFICIENT.
+
+    _ MODERN SENTIMENTAL DEVOTEES.
+
+    _ DISCONTENT.
+
+    _ DISSIPATION.
+
+    _ DUTY OF OLD AGE.
+
+    _ FEMALE EDUCATION.
+
+    _ EFFECTS OF RELIGION.
+
+    _ SUPERSTITION AND ENTHUSIASM.
+
+    _ ANGER AND ENVY CONTRASTED.
+
+    _ EVENTS UNCERTAIN.
+
+    _ FAITH, PIETY, AND ACTIVE VIRTUE.
+
+    _ FALSE SENTIMENT.
+
+    _ FELICITY EQUALLY DISTRIBUTED.
+
+    _ FELICITY TEMPORAL.
+
+    _ SPIRITUAL FELICITY.
+
+    _ WANT OF FORESIGHT RESPECTING OUR SPIRITUAL STATE.
+
+    _ FRIENDSHIP.
+
+    _ GALLANTRY.
+
+    _ GOD WITH RESPECT TO MAN.
+
+    _ IGNORANCE OF GOOD AND EVIL. ITS UTILITY.
+
+    _ GOOD MAN.
+
+    _ EFFECT OF LOOSE GRATIFICATIONS.
+
+    _ GRATITUDE.
+
+    _ WORDLY GREATNESS AND HONOURS,
+
+    _ HAPPINESS—HOW JUDGED OF.
+
+    _ HAPPINESS NOT INDEPENDENT.
+
+    _ HEALTH.
+
+    _ HISTORY.
+
+    _ TRUE VIRTUE AND HONOUR.
+
+    _ HOPE.
+
+    _ HUMANITY.
+
+    _ HUMILITY IN COMPANY.
+
+    _ HUMOUR.
+
+    _ INDUSTRY.
+
+    _ INTENT OF RELIGION.
+
+    _ LOVE OF JUSTICE.
+
+    _ SELF-KNOWLEDGE.
+
+    _ CHEERFULNESS OF OLD AGE, AND LEVITY OF YOUTH, CONTRASTED.
+
+    _ PUBLIC LIFE, ITS INCONVENIENCIES.
+
+    _ LOVE.
+
+    _ ARTFUL SENTIMENTAL LOVER.
+
+    _ EFFECTS OF HONOURABLE LOVE.
+
+    _ MALE COQUETRY.
+
+    _ MAN OF THE WORLD.
+
+    _ MAN'S REAL DEPENDENCE.
+
+    _ DEVOUT MAN.
+
+    _ MEN AND WOMEN, HOW DIFFERENT IN POINT OF UNDERSTANDING.
+
+    _ MARRIAGE.
+
+    _ TRUE MEEKNESS.
+
+    _ MIDDLE AGE.
+
+    _ THE UNION OF PIETY AND MORALITY.
+
+    _ NEGLECT OF RELIGION.
+
+    _ OLD MAID.
+
+    _ OLD AGE.
+
+    _ PASSIONATE WOMAN.
+
+    _ APPEARANCES OF PIETY.
+
+    _ MEN OF TRUE PLEASURE.
+
+    _ MAN OF PLEASURE.
+
+    _ PLEASURE, SENSUAL AND SPIRITUAL.
+
+    _ PLEASURES OF OLD AGE.
+
+    _ PRESUMPTION.
+
+    _ DISAPPOINTED PRIDE.
+
+    _ PRINCIPLE AND SENTIMENT CONTRASTED.
+
+    _ PROSPERITY.
+
+    _ NECESSITY OF PRUDENCE IN EVERY STAGE OF LIFE.
+
+    _ REDEMPTION.
+
+    _ REFORMATION.
+
+    _ RELIGION.
+
+    _ RELIGIOUS REFLECTION.
+
+    _ RESIGNATION.
+
+    _ RIDICULE.
+
+    _ SELF-COMMUNION,
+
+    _ SILENCE.
+
+    _ SINCERITY.
+
+    _ SLOTH.
+
+    _ SOBRIETY OF MIND. ITS NECESSITY.
+
+    _ SOLITUDE.
+
+    _ THE STUDY OF MAN.
+
+    _ READING AND STUDY.
+
+    _ PASSIVE TAMENESS OF SPIRIT, AND UNLIMITED COMPLIANCE.
+
+    _ TEMPERANCE.
+
+    _ TRUE GENUINE SENTIMENT.
+
+    _ GOVERNMENT OF TEMPER.
+
+    _ GOOD TEMPER, ITS EFFECTS AND UTILITY.
+
+    _ EFFECTS OF VICE.
+
+    _ VILLAIN.
+
+    _ VIRTUE AND PROSPERITY CONTRASTED.
+
+    _ VIRTUE,
+
+    _ VOLUPTUARY.
+
+    _ WIT.
+
+    _ WOMAN.
+
+    _ WORLD.
+
+    _ RELIGIOUS WORSHIP.
+
+    _ YOUTH.
+
+    _ DETACHED SENTIMENTS AND MORAL MAXIMS.
+
+**Types of content**
+
+  * There are 21 **verse** lines!
+  * There are 2 **drama** parts! This is **verse drama**.
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 358 **ommitted** fragments! 
+ @__reason__ (358) : illegible (358)  •  @__resp__ (358) : #PDCC (358)  •  @__extent__ (358) : 1 letter (216), 1 word (41), 1 span (18), 2 letters (60), 3 letters (20), 5 letters (1), 4 letters (2)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin Extended-A|ſ|383|
+|General Punctuation|—•…|8212 8226 8230|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|3||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2008-09 (1)|
+|6.|__edition__|1||
+|7.|__editionStmt__|1||
+|8.|__editorialDecl__|1||
+|9.|__extent__|2||
+|10.|__idno__|7| @__type__ (7) : DLPS (1), TCP (1), STC (2), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|4||
+|30.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__closer__|1||
+|2.|__desc__|358||
+|3.|__div__|121| @__type__ (121) : title_page (1), dedication (1), table_of_contents (1), text (1), part (117)|
+|4.|__g__|1000| @__ref__ (1000) : char:EOLhyphen (996), char:EOLunhyphen (1), char:punc (3)|
+|5.|__gap__|358| @__reason__ (358) : illegible (358)  •  @__resp__ (358) : #PDCC (358)  •  @__extent__ (358) : 1 letter (216), 1 word (41), 1 span (18), 2 letters (60), 3 letters (20), 5 letters (1), 4 letters (2)|
+|6.|__head__|141||
+|7.|__hi__|154| @__rend__ (2) : sup (2)|
+|8.|__item__|118||
+|9.|__l__|21||
+|10.|__list__|21||
+|11.|__opener__|1||
+|12.|__p__|482||
+|13.|__pb__|189| @__facs__ (189) : tcp:024121_0000_0FC3BCE1CAA97630 (1), tcp:024121_0001_0FC3BCE35C51F060 (1), tcp:024121_0002_0FC3BCE516920F98 (1), tcp:024121_0003_0FC3BCE65A52BD30 (1), tcp:024121_0004_0FC3BCE7CB579080 (1), tcp:024121_0005_0FC3BCE96764AFB0 (1), tcp:024121_0006_0FC3BCEAD5751290 (1), tcp:024121_0007_0FC3BCEC5E5ADFC0 (1), tcp:024121_0008_0FC3BCF5666204F0 (1), tcp:024121_0009_0FC3BCF8F362B190 (1), tcp:024121_0010_0FC3BCF9CA9F6028 (1), tcp:024121_0011_0FC3BD044C98D2B0 (1), tcp:024121_0012_0FC3BD050236C9A8 (1), tcp:024121_0013_0FC3BD06959A7CB0 (1), tcp:024121_0014_0FC3BD0815BDA898 (1), tcp:024121_0015_0FC3BD09C9256A58 (1), tcp:024121_0016_0FC3BD0B1071BB68 (1), tcp:024121_0017_0FC3BD0C8B3D3668 (1), tcp:024121_0018_0FC3BD0E5D5D78A8 (1), tcp:024121_0019_0FC3BD0F85129580 (1), tcp:024121_0020_0FC3BD170883C388 (1), tcp:024121_0021_0FC3BD1855E531B0 (1), tcp:024121_0022_0FC3BD1959E78BC8 (1), tcp:024121_0023_0FC3BD1B4CF94230 (1), tcp:024121_0024_0FC3BD2251AD2580 (1), tcp:024121_0025_0FC3BD23D5574D78 (1), tcp:024121_0026_0FC3BD2557A07A28 (1), tcp:024121_0027_0FC3BD26CE2DF588 (1), tcp:024121_0028_0FC3BD28601D2548 (1), tcp:024121_0029_0FC3BD2C42D9A8F8 (1), tcp:024121_0030_0FC3BD34E20C9550 (1), tcp:024121_0031_0FC3BD35CEF78B00 (1), tcp:024121_0032_0FC3BD39D1E42B70 (1), tcp:024121_0033_0FC3BD3B8FF87488 (1), tcp:024121_0034_0FC3BD3C8E7A6FA8 (1), tcp:024121_0035_0FC3BD3E314207F8 (1), tcp:024121_0036_0FC3BD3FCE036ED0 (1), tcp:024121_0037_0FC3BD41256BF8A8 (1), tcp:024121_0038_0FC3BD42BB88E7E0 (1), tcp:024121_0039_0FC3BD441E64D2A0 (1), tcp:024121_0040_0FC3BD45B1192720 (1), tcp:024121_0041_0FC3BD4725B2ECB8 (1), tcp:024121_0042_0FC3BD48915846F0 (1), tcp:024121_0043_0FC3BD4A2F2EC7F8 (1), tcp:024121_0044_0FC3BD4BBB86EFF8 (1), tcp:024121_0045_0FC3BD4D35939768 (1), tcp:024121_0046_0FC3BD4EA4AD2518 (1), tcp:024121_0047_0FC3BD50588C31E8 (1), tcp:024121_0048_0FC3BD51EE7EFC10 (1), tcp:024121_0049_0FC3BD532A16F2B8 (1), tcp:024121_0050_0FC3BD549765A3A8 (1), tcp:024121_0051_0FC3BD56240AE9D8 (1), tcp:024121_0052_0FC3BD57AD0CDA28 (1), tcp:024121_0053_0FC3BD592D461E50 (1), tcp:024121_0054_0FC3BD5AA06B3990 (1), tcp:024121_0055_0FC3BD5C2900D380 (1), tcp:024121_0056_0FC3BD5DA5F4A4F0 (1), tcp:024121_0057_0FC3BD5F24B0DE38 (1), tcp:024121_0058_0FC3BD60B557D2A0 (1), tcp:024121_0059_0FC3BD6226996C88 (1), tcp:024121_0060_0FC3BD784AD80FE0 (1), tcp:024121_0061_0FC3BD7AACFB59B0 (1), tcp:024121_0062_0FC3BD7BD09A7918 (1), tcp:024121_0063_0FC3BD7D42FDDE80 (1), tcp:024121_0064_0FC3BD89461A31E0 (1), tcp:024121_0065_0FC3BD8B123ACB38 (1), tcp:024121_0066_0FC3BD8C32E18728 (1), tcp:024121_0067_0FC3BD8DB08D2B30 (1), tcp:024121_0068_0FC3BD8F37774B88 (1), tcp:024121_0069_0FC3BD90DB939DB8 (1), tcp:024121_0070_0FC3BD9232C86D60 (1), tcp:024121_0071_0FC3BD93DEE69D30 (1), tcp:024121_0072_0FC3BD95741CC260 (1), tcp:024121_0073_0FC3BD96B9BA9080 (1), tcp:024121_0074_0FC3BD985AAAEB68 (1), tcp:024121_0075_0FC3BD99DC2D64E8 (1), tcp:024121_0076_0FC3BD9B4B70D158 (1), tcp:024121_0077_0FC3BD9CCFD96750 (1), tcp:024121_0078_0FC3BD9E576ACFE0 (1), tcp:024121_0079_0FC3BD9FC4298D40 (1), tcp:024121_0080_0FC3BDA14B23D268 (1), tcp:024121_0081_0FC3BDA2ED51EDC0 (1), tcp:024121_0082_0FC3BDA4334945C0 (1), tcp:024121_0083_0FC3BDA5CFF77E70 (1), tcp:024121_0084_0FC3BDA747E9D160 (1), tcp:024121_0085_0FC3BDA95C1F2090 (1), tcp:024121_0086_0FC3BDAA3AB63A48 (1), tcp:024121_0087_0FC3BDAEED78A3E8 (1), tcp:024121_0088_0FC3BDB9F6BF6180 (1), tcp:024121_0089_0FC3BDCA17A05ED0 (1), tcp:024121_0090_0FC3BDCB2AAABEA8 (1), tcp:024121_0091_0FC3BDCCB2F0FC30 (1), tcp:024121_0092_0FC3BDCE8C5B7F78 (1), tcp:024121_0093_0FC3BDCFF5DB6638 (1), tcp:024121_0094_0FC3BDD18199BE88 (1), tcp:024121_0095_0FC3BDD299A892B0 (1), tcp:024121_0096_0FC3BDD4465F31F0 (1), tcp:024121_0097_0FC3BDD5E455B260 (1), tcp:024121_0098_0FC3BDD737A54CE0 (1), tcp:024121_0099_0FC3BA2F329FA3F8 (1), tcp:024121_0100_0FC3BA2FD4226370 (1), tcp:024121_0101_0FC3BA319FAEB3D8 (1), tcp:024121_0102_0FC3BA331391E728 (1), tcp:024121_0103_0FC3BA344E3659F8 (1), tcp:024121_0104_0FC3BA35EF9C6290 (1), tcp:024121_0105_0FC3BA37694DAF48 (1), tcp:024121_0106_0FC3BA38F3E1E028 (1), tcp:024121_0107_0FC3BA3A59635420 (1), tcp:024121_0108_0FC3BA3BD80035F8 (1), tcp:024121_0109_0FC3BA3D58F79230 (1), tcp:024121_0110_0FC3BA3ED678B750 (1), tcp:024121_0111_0FC3BA405E49B538 (1), tcp:024121_0112_0FC3BA41D5246A20 (1), tcp:024121_0113_0FC3BA434FEFBE10 (1), tcp:024121_0114_0FC3BA44DF148EE8 (1), tcp:024121_0115_0FC3BA464D612008 (1), tcp:024121_0116_0FC3BA47D5E23BE0 (1), tcp:024121_0117_0FC3BA495A6B1F60 (1), tcp:024121_0118_0FC3BA4AD6A97BB0 (1), tcp:024121_0119_0FC3BA4E010644A0 (1), tcp:024121_0120_0FC3BA55B463B670 (1), tcp:024121_0121_0FC3BA586F5DA028 (1), tcp:024121_0122_0FC3BA619BC763A0 (1), tcp:024121_0123_0FC3BA62D24830E8 (1), tcp:024121_0124_0FC3BA6626515F38 (1), tcp:024121_0125_0FC3BA6EE60644A8 (1), tcp:024121_0126_0FC3BA77A275D2B8 (1), tcp:024121_0127_0FC3BA788531BA28 (1), tcp:024121_0128_0FC3BA7A1D192C48 (1), tcp:024121_0129_0FC3BA825B5279F0 (1), tcp:024121_0130_0FC3BA83CF25F1E8 (1), tcp:024121_0131_0FC3BA85ADA4DC38 (1), tcp:024121_0132_0FC3BA86E2461BE0 (1), tcp:024121_0133_0FC3BA8884CA8C18 (1), tcp:024121_0134_0FC3BA89CB2F9A08 (1), tcp:024121_0135_0FC3BA8B59C52330 (1), tcp:024121_0136_0FC3BA8CF4A69B70 (1), tcp:024121_0137_0FC3BA8E6225AF18 (1), tcp:024121_0138_0FC3BA8FD18E2FB8 (1), tcp:024121_0139_0FC3BA914BC7EA38 (1), tcp:024121_0140_0FC3BA92D76F30F8 (1), tcp:024121_0141_0FC3BA944B3CF7E8 (1), tcp:024121_0142_0FC3BA95D1B05200 (1), tcp:024121_0143_0FC3BA97448712A8 (1), tcp:024121_0144_0FC3BA98D5DC92A8 (1), tcp:024121_0145_0FC3BA9AE36D32D8 (1), tcp:024121_0146_0FC3BA9BD786C038 (1), tcp:024121_0147_0FC3BAA72E1C94A8 (1), tcp:024121_0148_0FC3BAA7B43EA240 (1), tcp:024121_0149_0FC3BAB36B855798 (1), tcp:024121_0150_0FC3BAB488CC6548 (1), tcp:024121_0151_0FC3BAB61F2BE390 (1), tcp:024121_0152_0FC3BAB7B9AD4628 (1), tcp:024121_0153_0FC3BAB90F4ED2C0 (1), tcp:024121_0154_0FC3BABA8B1BDB58 (1), tcp:024121_0155_0FC3BABC61274630 (1), tcp:024121_0156_0FC3BABDCDE36798 (1), tcp:024121_0157_0FC3BABF21456520 (1), tcp:024121_0158_0FC3BAC0D4F95AB0 (1), tcp:024121_0159_0FC3BAC220A14D50 (1), tcp:024121_0160_0FC3BAC9B139AF40 (1), tcp:024121_0161_0FC3BACAF07D3D10 (1), tcp:024121_0162_0FC3BACCA0E6C678 (1), tcp:024121_0163_0FC3BACE1010A008 (1), tcp:024121_0164_0FC3BACF8B6530C8 (1), tcp:024121_0165_0FC3BAD11332FE48 (1), tcp:024121_0166_0FC3BAD2A991EFF0 (1), tcp:024121_0167_0FC3BAD417504300 (1), tcp:024121_0168_0FC3BAD58A202DA8 (1), tcp:024121_0169_0FC3BAD7067171D0 (1), tcp:024121_0170_0FC3BAD88B6D5E88 (1), tcp:024121_0171_0FC3BADA0732B278 (1), tcp:024121_0172_0FC3BADE856EA3E8 (1), tcp:024121_0173_0FC3BAE9F7805020 (1), tcp:024121_0174_0FC3BAEB844575C8 (1), tcp:024121_0175_0FC3BAECFAD1E450 (1), tcp:024121_0176_0FC3BAEE85649D80 (1), tcp:024121_0177_0FC3BAEFD1409488 (1), tcp:024121_0178_0FC3BAF1628BFA98 (1), tcp:024121_0179_0FC3BAF2EBD11E08 (1), tcp:024121_0180_0FC3BAF440F95FD8 (1), tcp:024121_0181_0FC3BAF5D824E0B0 (1), tcp:024121_0182_0FC3BAF766DC97D8 (1), tcp:024121_0183_0FC3BAF8EE45F668 (1), tcp:024121_0184_0FC3BAFA4C77DD30 (1), tcp:024121_0185_0FC3BAFBEC19B410 (1), tcp:024121_0186_0FC3BAFD58BB6008 (1), tcp:024121_0187_0FC3BAFED843CAC0 (1), tcp:024121_0188_0FC3BB006C348B28 (1)  •  @__n__ (183) : ii (1), iii (1), iv (1), v (1), vi (1), viii (1), ix (1), x (1), xi (1), xii (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1)|
+|14.|__q__|2||
+|15.|__salute__|2||
+|16.|__signed__|1||
+|17.|__sp__|2||
+|18.|__speaker__|2||
+|19.|__trailer__|1||
